@@ -35,6 +35,7 @@ body {
   font-size: 1.6rem;
   color: #fff;
   background-color: #232323;
+  overflow-y: scroll;
 }
 
 html {

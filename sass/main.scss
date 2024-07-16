@@ -12,7 +12,10 @@ body {
 	font-size: 1.6rem;
 	color: $white;
 	background-color: $dark;
+
+	overflow-y: scroll;
 }
+
 html {
 	font-size: 62.5%;
 	scroll-behavior: smooth;
